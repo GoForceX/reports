@@ -1,0 +1,37 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="8CtCuOsys3hR2p4QYqbM">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Sqm4q17-4cD9rXe7hXDx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AAzNbXR31eo6BCxiC4Rg-1" target="Sqm4q17-4cD9rXe7hXDx-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AAzNbXR31eo6BCxiC4Rg-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;程序开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IWa2Fx2lJYsl5mEyNaZM-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Sqm4q17-4cD9rXe7hXDx-2" target="IWa2Fx2lJYsl5mEyNaZM-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sqm4q17-4cD9rXe7hXDx-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;接受输入&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IWa2Fx2lJYsl5mEyNaZM-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IWa2Fx2lJYsl5mEyNaZM-69" target="IWa2Fx2lJYsl5mEyNaZM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWa2Fx2lJYsl5mEyNaZM-69" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;创建8个函数taskn&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;R5kIMO_XLVb75lqh-PHT&quot;&gt;分别输出&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;printf(&quot;taskn is called!\n&quot;)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWa2Fx2lJYsl5mEyNaZM-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IWa2Fx2lJYsl5mEyNaZM-71" target="IWa2Fx2lJYsl5mEyNaZM-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWa2Fx2lJYsl5mEyNaZM-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分别读取输入的每一位&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;并调用对应的函数&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="420" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWa2Fx2lJYsl5mEyNaZM-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;程序结束&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
